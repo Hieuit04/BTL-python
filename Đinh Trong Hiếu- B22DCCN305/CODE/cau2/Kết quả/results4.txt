@@ -1,0 +1,426 @@
+Đội có chỉ số cao nhất ở mỗi chỉ số:
+Chỉ số: Median of Rk, Đội: Arsenal, Giá trị lớn nhất: 441.0
+Chỉ số: Mean of Rk, Đội: Arsenal, Giá trị lớn nhất: 424.8571428571428
+Chỉ số: Std of Rk, Đội: Bournemouth, Giá trị lớn nhất: 191.1395140889341
+Chỉ số: Median of Age, Đội: West Ham, Giá trị lớn nhất: 27.5
+Chỉ số: Mean of Age, Đội: West Ham, Giá trị lớn nhất: 28.272727272727277
+Chỉ số: Std of Age, Đội: Brighton, Giá trị lớn nhất: 5.69832426866877
+Chỉ số: Median of Matches played, Đội: Fulham, Giá trị lớn nhất: 29.0
+Chỉ số: Mean of Matches played, Đội: Fulham, Giá trị lớn nhất: 27.23809523809524
+Chỉ số: Std of Matches played, Đội: Wolves, Giá trị lớn nhất: 11.930772537155056
+Chỉ số: Median of Starts, Đội: Manchester City, Giá trị lớn nhất: 24.0
+Chỉ số: Mean of Starts, Đội: Fulham, Giá trị lớn nhất: 19.904761904761905
+Chỉ số: Std of Starts, Đội: Everton, Giá trị lớn nhất: 13.720098641021776
+Chỉ số: Median of Non-Penalty Goals, Đội: Arsenal, Giá trị lớn nhất: 2.0
+Chỉ số: Mean of Non-Penalty Goals, Đội: Manchester City, Giá trị lớn nhất: 4.047619047619048
+Chỉ số: Std of Non-Penalty Goals, Đội: Manchester City, Giá trị lớn nhất: 5.757396898566143
+Chỉ số: Median of Penalty Goals, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Penalty Goals, Đội: Arsenal, Giá trị lớn nhất: 0.4761904761904761
+Chỉ số: Std of Penalty Goals, Đội: Chelsea, Giá trị lớn nhất: 1.8046236911518885
+Chỉ số: Median of Assists, Đội: Arsenal, Giá trị lớn nhất: 2.0
+Chỉ số: Mean of Assists, Đội: Manchester City, Giá trị lớn nhất: 3.238095238095238
+Chỉ số: Std of Assists, Đội: Manchester City, Giá trị lớn nhất: 3.780274618394303
+Chỉ số: Median of Yellow Cards, Đội: Aston Villa, Giá trị lớn nhất: 4.0
+Chỉ số: Mean of Yellow Cards, Đội: Chelsea, Giá trị lớn nhất: 4.32
+Chỉ số: Std of Yellow Cards, Đội: Wolves, Giá trị lớn nhất: 3.762977544445356
+Chỉ số: Median of Red Cards, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Red Cards, Đội: Burnley, Giá trị lớn nhất: 0.25
+Chỉ số: Std of Red Cards, Đội: Tottenham, Giá trị lớn nhất: 0.4815434123430768
+Chỉ số: Median of xG, Đội: Liverpool, Giá trị lớn nhất: 2.3
+Chỉ số: Mean of xG, Đội: Liverpool, Giá trị lớn nhất: 4.1000000000000005
+Chỉ số: Std of xG, Đội: Manchester City, Giá trị lớn nhất: 6.645560637784911
+Chỉ số: Median of npxG, Đội: Liverpool, Giá trị lớn nhất: 2.15
+Chỉ số: Mean of npxG, Đội: Liverpool, Giá trị lớn nhất: 3.7545454545454544
+Chỉ số: Std of npxG, Đội: Manchester City, Giá trị lớn nhất: 5.367299578177536
+Chỉ số: Median of xAG, Đội: Liverpool, Giá trị lớn nhất: 1.65
+Chỉ số: Mean of xAG, Đội: Liverpool, Giá trị lớn nhất: 2.9318181818181817
+Chỉ số: Std of xAG, Đội: Tottenham, Giá trị lớn nhất: 3.2418459583069805
+Chỉ số: Median of PrgC, Đội: Liverpool, Giá trị lớn nhất: 41.0
+Chỉ số: Mean of PrgC, Đội: Manchester City, Giá trị lớn nhất: 53.47619047619048
+Chỉ số: Std of PrgC, Đội: Manchester City, Giá trị lớn nhất: 51.45640781051379
+Chỉ số: Median of PrgP, Đội: Manchester City, Giá trị lớn nhất: 100.0
+Chỉ số: Mean of PrgP, Đội: Arsenal, Giá trị lớn nhất: 99.61904761904762
+Chỉ số: Std of PrgP, Đội: Arsenal, Giá trị lớn nhất: 94.09648037545092
+Chỉ số: Median of PrgR, Đội: Liverpool, Giá trị lớn nhất: 80.5
+Chỉ số: Mean of PrgR, Đội: Arsenal, Giá trị lớn nhất: 98.85714285714286
+Chỉ số: Std of PrgR, Đội: Arsenal, Giá trị lớn nhất: 130.50259986463325
+Chỉ số: Median of Gls/90, Đội: Manchester City, Giá trị lớn nhất: 0.15
+Chỉ số: Mean of Gls/90, Đội: Newcastle Utd, Giá trị lớn nhất: 0.2199999999999999
+Chỉ số: Std of Gls/90, Đội: Aston Villa, Giá trị lớn nhất: 0.2595260197758819
+Chỉ số: Median of Ast/90, Đội: Arsenal, Giá trị lớn nhất: 0.17
+Chỉ số: Mean of Ast/90, Đội: Tottenham, Giá trị lớn nhất: 0.1854166666666666
+Chỉ số: Std of Ast/90, Đội: Tottenham, Giá trị lớn nhất: 0.2596314974974216
+Chỉ số: Median of G+A/90, Đội: Arsenal, Giá trị lớn nhất: 0.25
+Chỉ số: Mean of G+A/90, Đội: Manchester City, Giá trị lớn nhất: 0.3561904761904761
+Chỉ số: Std of G+A/90, Đội: Manchester City, Giá trị lớn nhất: 0.350349485378189
+Chỉ số: Median of G-PK/90, Đội: Manchester City, Giá trị lớn nhất: 0.15
+Chỉ số: Mean of G-PK/90, Đội: Newcastle Utd, Giá trị lớn nhất: 0.2029166666666666
+Chỉ số: Std of G-PK/90, Đội: Aston Villa, Giá trị lớn nhất: 0.2592791771423319
+Chỉ số: Median of G+A-PK/90, Đội: Arsenal, Giá trị lớn nhất: 0.25
+Chỉ số: Mean of G+A-PK/90, Đội: Manchester City, Giá trị lớn nhất: 0.3409523809523809
+Chỉ số: Std of G+A-PK/90, Đội: Tottenham, Giá trị lớn nhất: 0.3297649580174216
+Chỉ số: Median of xG/90, Đội: Newcastle Utd, Giá trị lớn nhất: 0.13
+Chỉ số: Mean of xG/90, Đội: Everton, Giá trị lớn nhất: 0.2047826086956521
+Chỉ số: Std of xG/90, Đội: Bournemouth, Giá trị lớn nhất: 0.3038329500539096
+Chỉ số: Median of xAG/90, Đội: Arsenal, Giá trị lớn nhất: 0.13
+Chỉ số: Mean of xAG/90, Đội: Tottenham, Giá trị lớn nhất: 0.16125
+Chỉ số: Std of xAG/90, Đội: Manchester City, Giá trị lớn nhất: 0.1914754739982568
+Chỉ số: Median of xG + xAG/90, Đội: Newcastle Utd, Giá trị lớn nhất: 0.295
+Chỉ số: Mean of xG + xAG/90, Đội: Manchester City, Giá trị lớn nhất: 0.3376190476190476
+Chỉ số: Std of xG + xAG/90, Đội: Bournemouth, Giá trị lớn nhất: 0.3730326857198771
+Chỉ số: Median of npxG/90, Đội: Newcastle Utd, Giá trị lớn nhất: 0.13
+Chỉ số: Mean of npxG/90, Đội: Everton, Giá trị lớn nhất: 0.198695652173913
+Chỉ số: Std of npxG/90, Đội: Bournemouth, Giá trị lớn nhất: 0.3013834766539134
+Chỉ số: Median of npxG + xAG/90, Đội: Newcastle Utd, Giá trị lớn nhất: 0.295
+Chỉ số: Mean of npxG + xAG/90, Đội: Tottenham, Giá trị lớn nhất: 0.3270833333333333
+Chỉ số: Std of npxG + xAG/90, Đội: Bournemouth, Giá trị lớn nhất: 0.371246756007583
+Chỉ số: Median of GA, Đội: Luton Town, Giá trị lớn nhất: 85.0
+Chỉ số: Mean of GA, Đội: Luton Town, Giá trị lớn nhất: 85.0
+Chỉ số: Std of GA, Đội: Brentford, Giá trị lớn nhất: 43.1335136523794
+Chỉ số: Median of GA90, Đội: Sheffield Utd, Giá trị lớn nhất: 2.8
+Chỉ số: Mean of GA90, Đội: Sheffield Utd, Giá trị lớn nhất: 2.8
+Chỉ số: Std of GA90, Đội: Bournemouth, Giá trị lớn nhất: 1.1868585987106186
+Chỉ số: Median of SoTA, Đội: Luton Town, Giá trị lớn nhất: 221.0
+Chỉ số: Mean of SoTA, Đội: Luton Town, Giá trị lớn nhất: 221.0
+Chỉ số: Std of SoTA, Đội: Wolves, Giá trị lớn nhất: 122.32947314527271
+Chỉ số: Median of Saves, Đội: Manchester Utd, Giá trị lớn nhất: 146.0
+Chỉ số: Mean of Saves, Đội: Manchester Utd, Giá trị lớn nhất: 146.0
+Chỉ số: Std of Saves, Đội: Wolves, Giá trị lớn nhất: 86.97413408594535
+Chỉ số: Median of Save%-Performance, Đội: Manchester Utd, Giá trị lớn nhất: 74.9
+Chỉ số: Mean of Save%-Performance, Đội: Manchester Utd, Giá trị lớn nhất: 74.9
+Chỉ số: Std of Save%-Performance, Đội: Bournemouth, Giá trị lớn nhất: 21.941057403871856
+Chỉ số: Median of W, Đội: Tottenham, Giá trị lớn nhất: 20.0
+Chỉ số: Mean of W, Đội: Tottenham, Giá trị lớn nhất: 20.0
+Chỉ số: Std of W, Đội: Manchester City, Giá trị lớn nhất: 14.142135623730953
+Chỉ số: Median of D, Đội: Everton, Giá trị lớn nhất: 9.0
+Chỉ số: Mean of D, Đội: Everton, Giá trị lớn nhất: 9.0
+Chỉ số: Std of D, Đội: Brentford, Giá trị lớn nhất: 6.363961030678928
+Chỉ số: Median of L, Đội: Luton Town, Giá trị lớn nhất: 24.0
+Chỉ số: Mean of L, Đội: Luton Town, Giá trị lớn nhất: 24.0
+Chỉ số: Std of L, Đội: Brentford, Giá trị lớn nhất: 12.020815280171307
+Chỉ số: Median of CS, Đội: Everton, Giá trị lớn nhất: 13.0
+Chỉ số: Mean of CS, Đội: Everton, Giá trị lớn nhất: 13.0
+Chỉ số: Std of CS, Đội: Arsenal, Giá trị lớn nhất: 9.899494936611664
+Chỉ số: Median of CS%, Đội: Manchester City, Giá trị lớn nhất: 45.15
+Chỉ số: Mean of CS%, Đội: Manchester City, Giá trị lớn nhất: 45.15
+Chỉ số: Std of CS%, Đội: Bournemouth, Giá trị lớn nhất: 25.063984785610877
+Chỉ số: Median of PKatt-PK, Đội: Fulham, Giá trị lớn nhất: 8.0
+Chỉ số: Mean of PKatt-PK, Đội: Fulham, Giá trị lớn nhất: 8.0
+Chỉ số: Std of PKatt-PK, Đội: Wolves, Giá trị lớn nhất: 5.656854249492381
+Chỉ số: Median of PKA, Đội: Fulham, Giá trị lớn nhất: 8.0
+Chỉ số: Mean of PKA, Đội: Fulham, Giá trị lớn nhất: 8.0
+Chỉ số: Std of PKA, Đội: Wolves, Giá trị lớn nhất: 5.656854249492381
+Chỉ số: Median of PKsv, Đội: West Ham, Giá trị lớn nhất: 1.0
+Chỉ số: Mean of PKsv, Đội: West Ham, Giá trị lớn nhất: 1.0
+Chỉ số: Std of PKsv, Đội: West Ham, Giá trị lớn nhất: 1.4142135623730951
+Chỉ số: Median of PKm, Đội: Sheffield Utd, Giá trị lớn nhất: 1.0
+Chỉ số: Mean of PKm, Đội: Sheffield Utd, Giá trị lớn nhất: 1.0
+Chỉ số: Std of PKm, Đội: Chelsea, Giá trị lớn nhất: 0.7071067811865476
+Chỉ số: Median of Save%/PK, Đội: Aston Villa, Giá trị lớn nhất: 50.0
+Chỉ số: Mean of Save%/PK, Đội: Aston Villa, Giá trị lớn nhất: 50.0
+Chỉ số: Std of Save%/PK, Đội: Aston Villa, Giá trị lớn nhất: 70.71067811865476
+Chỉ số: Median of Gls, Đội: Arsenal, Giá trị lớn nhất: 2.0
+Chỉ số: Mean of Gls, Đội: Manchester City, Giá trị lớn nhất: 4.476190476190476
+Chỉ số: Std of Gls, Đội: Manchester City, Giá trị lớn nhất: 6.910998825199203
+Chỉ số: Median of Sh, Đội: Liverpool, Giá trị lớn nhất: 21.0
+Chỉ số: Mean of Sh, Đội: Liverpool, Giá trị lớn nhất: 35.40909090909091
+Chỉ số: Std of Sh, Đội: Manchester City, Giá trị lớn nhất: 34.904836613965394
+Chỉ số: Median of SoT, Đội: Liverpool, Giá trị lớn nhất: 7.0
+Chỉ số: Mean of SoT, Đội: Manchester City, Giá trị lớn nhất: 12.523809523809524
+Chỉ số: Std of SoT, Đội: Manchester City, Giá trị lớn nhất: 15.194140474600882
+Chỉ số: Median of SoT%, Đội: Manchester City, Giá trị lớn nhất: 38.5
+Chỉ số: Mean of SoT%, Đội: Fulham, Giá trị lớn nhất: 37.645
+Chỉ số: Std of SoT%, Đội: Sheffield Utd, Giá trị lớn nhất: 25.31377125962497
+Chỉ số: Median of Sh/90, Đội: Tottenham, Giá trị lớn nhất: 1.5550000000000002
+Chỉ số: Mean of Sh/90, Đội: Liverpool, Giá trị lớn nhất: 1.728181818181818
+Chỉ số: Std of Sh/90, Đội: Bournemouth, Giá trị lớn nhất: 1.7293035058614248
+Chỉ số: Median of SoT/90, Đội: Fulham, Giá trị lớn nhất: 0.47
+Chỉ số: Mean of SoT/90, Đội: Everton, Giá trị lớn nhất: 0.6313043478260869
+Chỉ số: Std of SoT/90, Đội: Everton, Giá trị lớn nhất: 0.7157342342456076
+Chỉ số: Median of G/Sh, Đội: Newcastle Utd, Giá trị lớn nhất: 0.13
+Chỉ số: Mean of G/Sh, Đội: Fulham, Giá trị lớn nhất: 0.1535
+Chỉ số: Std of G/Sh, Đội: Fulham, Giá trị lớn nhất: 0.2123124559402213
+Chỉ số: Median of G/SoT, Đội: Brentford, Giá trị lớn nhất: 0.43
+Chỉ số: Mean of G/SoT, Đội: Newcastle Utd, Giá trị lớn nhất: 0.4176190476190476
+Chỉ số: Std of G/SoT, Đội: Nott'ham Forest, Giá trị lớn nhất: 0.345457743626596
+Chỉ số: Median of Dist, Đội: Crystal Palace, Giá trị lớn nhất: 18.2
+Chỉ số: Mean of Dist, Đội: Burnley, Giá trị lớn nhất: 17.6125
+Chỉ số: Std of Dist, Đội: Manchester Utd, Giá trị lớn nhất: 5.694165240538886
+Chỉ số: Median of FK-Shooting, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of FK-Shooting, Đội: Manchester City, Giá trị lớn nhất: 1.1904761904761905
+Chỉ số: Std of FK-Shooting, Đội: West Ham, Giá trị lớn nhất: 3.40771978198826
+Chỉ số: Median of PK, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of PK, Đội: Arsenal, Giá trị lớn nhất: 0.4761904761904761
+Chỉ số: Std of PK, Đội: Chelsea, Giá trị lớn nhất: 1.8046236911518885
+Chỉ số: Median of PKatt-Standard, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of PKatt-Standard, Đội: Chelsea, Giá trị lớn nhất: 0.48
+Chỉ số: Std of PKatt-Standard, Đội: Chelsea, Giá trị lớn nhất: 1.8284784202536637
+Chỉ số: Median of xG-Shooting, Đội: Liverpool, Giá trị lớn nhất: 2.3
+Chỉ số: Mean of xG-Shooting, Đội: Liverpool, Giá trị lớn nhất: 4.1000000000000005
+Chỉ số: Std of xG-Shooting, Đội: Manchester City, Giá trị lớn nhất: 6.645560637784911
+Chỉ số: Median of npxG-Shooting, Đội: Liverpool, Giá trị lớn nhất: 2.15
+Chỉ số: Mean of npxG-Shooting, Đội: Liverpool, Giá trị lớn nhất: 3.7545454545454544
+Chỉ số: Std of npxG-Shooting, Đội: Manchester City, Giá trị lớn nhất: 5.367299578177536
+Chỉ số: Median of npxG/Sh, Đội: Aston Villa, Giá trị lớn nhất: 0.12
+Chỉ số: Mean of npxG/Sh, Đội: Fulham, Giá trị lớn nhất: 0.142
+Chỉ số: Std of npxG/Sh, Đội: Fulham, Giá trị lớn nhất: 0.1981387073956551
+Chỉ số: Median of G-xG, Đội: Newcastle Utd, Giá trị lớn nhất: 0.25
+Chỉ số: Mean of G-xG, Đội: Manchester City, Giá trị lớn nhất: 0.5809523809523809
+Chỉ số: Std of G-xG, Đội: Manchester City, Giá trị lớn nhất: 2.319616142300068
+Chỉ số: Median of np:xG-xG, Đội: Newcastle Utd, Giá trị lớn nhất: 0.25
+Chỉ số: Mean of np:xG-xG, Đội: Manchester City, Giá trị lớn nhất: 0.5238095238095237
+Chỉ số: Std of np:xG-xG, Đội: Manchester City, Giá trị lớn nhất: 2.395392402489572
+Chỉ số: Median of Cmp/Short, Đội: Manchester City, Giá trị lớn nhất: 452.0
+Chỉ số: Mean of Cmp/Short, Đội: Manchester City, Giá trị lớn nhất: 612.3809523809524
+Chỉ số: Std of Cmp/Short, Đội: Manchester City, Giá trị lớn nhất: 436.5011427465541
+Chỉ số: Median of Att/Short, Đội: Manchester City, Giá trị lớn nhất: 507.0
+Chỉ số: Mean of Att/Short, Đội: Manchester City, Giá trị lớn nhất: 651.6190476190476
+Chỉ số: Std of Att/Short, Đội: Manchester City, Giá trị lớn nhất: 458.29635348652687
+Chỉ số: Median of Cmp%/Short, Đội: Manchester City, Giá trị lớn nhất: 94.4
+Chỉ số: Mean of Cmp%/Short, Đội: Manchester City, Giá trị lớn nhất: 93.7714285714286
+Chỉ số: Std of Cmp%/Short, Đội: Everton, Giá trị lớn nhất: 9.135129604191476
+Chỉ số: Median of Cmp/Medium, Đội: Fulham, Giá trị lớn nhất: 325.0
+Chỉ số: Mean of Cmp/Medium, Đội: Manchester City, Giá trị lớn nhất: 448.8095238095238
+Chỉ số: Std of Cmp/Medium, Đội: Manchester City, Giá trị lớn nhất: 386.8632341083369
+Chỉ số: Median of Att/Medium, Đội: Fulham, Giá trị lớn nhất: 403.0
+Chỉ số: Mean of Att/Medium, Đội: Manchester City, Giá trị lớn nhất: 489.4761904761905
+Chỉ số: Std of Att/Medium, Đội: Manchester City, Giá trị lớn nhất: 406.5543775496236
+Chỉ số: Median of Cmp%/Medium, Đội: Manchester City, Giá trị lớn nhất: 91.4
+Chỉ số: Mean of Cmp%/Medium, Đội: Manchester City, Giá trị lớn nhất: 89.7047619047619
+Chỉ số: Std of Cmp%/Medium, Đội: Sheffield Utd, Giá trị lớn nhất: 12.401345866894642
+Chỉ số: Median of Cmp/Long, Đội: Fulham, Giá trị lớn nhất: 66.0
+Chỉ số: Mean of Cmp/Long, Đội: Manchester City, Giá trị lớn nhất: 78.61904761904762
+Chỉ số: Std of Cmp/Long, Đội: Everton, Giá trị lớn nhất: 99.80374021681163
+Chỉ số: Median of Att/Long, Đội: Fulham, Giá trị lớn nhất: 109.0
+Chỉ số: Mean of Att/Long, Đội: Fulham, Giá trị lớn nhất: 135.38095238095238
+Chỉ số: Std of Att/Long, Đội: Everton, Giá trị lớn nhất: 216.7342957187705
+Chỉ số: Median of Cmp%/Long, Đội: Manchester City, Giá trị lớn nhất: 67.5
+Chỉ số: Mean of Cmp%/Long, Đội: Manchester City, Giá trị lớn nhất: 65.71428571428571
+Chỉ số: Std of Cmp%/Long, Đội: Everton, Giá trị lớn nhất: 18.77230109862798
+Chỉ số: Median of In, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of In, Đội: Arsenal, Giá trị lớn nhất: 10.333333333333334
+Chỉ số: Std of In, Đội: Arsenal, Giá trị lớn nhất: 23.29449148046236
+Chỉ số: Median of Out, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Out, Đội: Liverpool, Giá trị lớn nhất: 7.772727272727272
+Chỉ số: Std of Out, Đội: Liverpool, Giá trị lớn nhất: 16.303466818533728
+Chỉ số: Median of Str, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Str, Đội: Wolves, Giá trị lớn nhất: 0.6
+Chỉ số: Std of Str, Đội: Wolves, Giá trị lớn nhất: 2.081665999466133
+Chỉ số: Median of Cmp-OC, Đội: Manchester City, Giá trị lớn nhất: 1011.0
+Chỉ số: Mean of Cmp-OC, Đội: Manchester City, Giá trị lớn nhất: 1169.2857142857142
+Chỉ số: Std of Cmp-OC, Đội: Manchester City, Giá trị lớn nhất: 879.898979591245
+Chỉ số: Median of Off-OC, Đội: Liverpool, Giá trị lớn nhất: 3.5
+Chỉ số: Mean of Off-OC, Đội: Liverpool, Giá trị lớn nhất: 4.545454545454546
+Chỉ số: Std of Off-OC, Đội: Manchester Utd, Giá trị lớn nhất: 4.658160746309807
+Chỉ số: Median of Blocks-OC, Đội: Tottenham, Giá trị lớn nhất: 17.5
+Chỉ số: Mean of Blocks-OC, Đội: Tottenham, Giá trị lớn nhất: 20.0
+Chỉ số: Std of Blocks-OC, Đội: West Ham, Giá trị lớn nhất: 20.015199851818245
+Chỉ số: Median of SCA, Đội: Manchester City, Giá trị lớn nhất: 54.0
+Chỉ số: Mean of SCA, Đội: Liverpool, Giá trị lớn nhất: 63.04545454545455
+Chỉ số: Std of SCA, Đội: Arsenal, Giá trị lớn nhất: 59.48473193461775
+Chỉ số: Median of SCA90, Đội: Liverpool, Giá trị lớn nhất: 3.505
+Chỉ số: Mean of SCA90, Đội: Liverpool, Giá trị lớn nhất: 3.2145454545454544
+Chỉ số: Std of SCA90, Đội: Tottenham, Giá trị lớn nhất: 2.186052461017082
+Chỉ số: Median of PassLive/SCA, Đội: Liverpool, Giá trị lớn nhất: 43.0
+Chỉ số: Mean of PassLive/SCA, Đội: Liverpool, Giá trị lớn nhất: 47.5
+Chỉ số: Std of PassLive/SCA, Đội: Arsenal, Giá trị lớn nhất: 46.29362807125836
+Chỉ số: Median of PassDead/SCA, Đội: Arsenal, Giá trị lớn nhất: 1.0
+Chỉ số: Mean of PassDead/SCA, Đội: Liverpool, Giá trị lớn nhất: 5.2727272727272725
+Chỉ số: Std of PassDead/SCA, Đội: West Ham, Giá trị lớn nhất: 11.230466447275314
+Chỉ số: Median of TO/SCA, Đội: Liverpool, Giá trị lớn nhất: 2.0
+Chỉ số: Mean of TO/SCA, Đội: Manchester City, Giá trị lớn nhất: 3.0476190476190474
+Chỉ số: Std of TO/SCA, Đội: West Ham, Giá trị lớn nhất: 5.44710892777037
+Chỉ số: Median of Sh/SCA, Đội: Fulham, Giá trị lớn nhất: 3.0
+Chỉ số: Mean of Sh/SCA, Đội: Liverpool, Giá trị lớn nhất: 4.545454545454546
+Chỉ số: Std of Sh/SCA, Đội: Liverpool, Giá trị lớn nhất: 5.646130345536479
+Chỉ số: Median of Fld/SCA, Đội: Manchester City, Giá trị lớn nhất: 2.0
+Chỉ số: Mean of Fld/SCA, Đội: Manchester City, Giá trị lớn nhất: 2.571428571428572
+Chỉ số: Std of Fld/SCA, Đội: Crystal Palace, Giá trị lớn nhất: 3.261268091589128
+Chỉ số: Median of Def/SCA, Đội: Bournemouth, Giá trị lớn nhất: 1.0
+Chỉ số: Mean of Def/SCA, Đội: Everton, Giá trị lớn nhất: 1.391304347826087
+Chỉ số: Std of Def/SCA, Đội: Chelsea, Giá trị lớn nhất: 1.8257418583505536
+Chỉ số: Median of GCA, Đội: Manchester City, Giá trị lớn nhất: 6.0
+Chỉ số: Mean of GCA, Đội: Manchester City, Giá trị lớn nhất: 7.952380952380952
+Chỉ số: Std of GCA, Đội: Manchester City, Giá trị lớn nhất: 6.989107170992519
+Chỉ số: Median of GCA90, Đội: Arsenal, Giá trị lớn nhất: 0.38
+Chỉ số: Mean of GCA90, Đội: Manchester City, Giá trị lớn nhất: 0.4233333333333333
+Chỉ số: Std of GCA90, Đội: Manchester City, Giá trị lớn nhất: 0.4383529780135334
+Chỉ số: Median of PassLive/GCA, Đội: Manchester City, Giá trị lớn nhất: 4.0
+Chỉ số: Mean of PassLive/GCA, Đội: Manchester City, Giá trị lớn nhất: 5.904761904761905
+Chỉ số: Std of PassLive/GCA, Đội: Arsenal, Giá trị lớn nhất: 5.324248214313364
+Chỉ số: Median of PassDead/GCA, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of PassDead/GCA, Đội: Arsenal, Giá trị lớn nhất: 0.7619047619047619
+Chỉ số: Std of PassDead/GCA, Đội: West Ham, Giá trị lớn nhất: 1.535298947157477
+Chỉ số: Median of TO/GCA, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of TO/GCA, Đội: Newcastle Utd, Giá trị lớn nhất: 0.75
+Chỉ số: Std of TO/GCA, Đội: Newcastle Utd, Giá trị lớn nhất: 1.3909646324388163
+Chỉ số: Median of Sh/GCA, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Sh/GCA, Đội: Luton Town, Giá trị lớn nhất: 0.64
+Chỉ số: Std of Sh/GCA, Đội: Aston Villa, Giá trị lớn nhất: 1.5023038960368271
+Chỉ số: Median of Fld/GCA, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Fld/GCA, Đội: Arsenal, Giá trị lớn nhất: 0.6190476190476191
+Chỉ số: Std of Fld/GCA, Đội: Newcastle Utd, Giá trị lớn nhất: 1.1787674722451362
+Chỉ số: Median of Def/GCA, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of Def/GCA, Đội: Manchester Utd, Giá trị lớn nhất: 0.1923076923076923
+Chỉ số: Std of Def/GCA, Đội: Manchester Utd, Giá trị lớn nhất: 0.4914656259988704
+Chỉ số: Median of Tkl-Challenges, Đội: Crystal Palace, Giá trị lớn nhất: 14.0
+Chỉ số: Mean of Tkl-Challenges, Đội: Fulham, Giá trị lớn nhất: 16.428571428571427
+Chỉ số: Std of Tkl-Challenges, Đội: Fulham, Giá trị lớn nhất: 22.874814597218982
+Chỉ số: Median of Att-Challenges, Đội: Everton, Giá trị lớn nhất: 28.0
+Chỉ số: Mean of Att-Challenges, Đội: Liverpool, Giá trị lớn nhất: 34.45454545454545
+Chỉ số: Std of Att-Challenges, Đội: Fulham, Giá trị lớn nhất: 35.49124640567828
+Chỉ số: Median of Tkl%-Challenges, Đội: Luton Town, Giá trị lớn nhất: 53.3
+Chỉ số: Mean of Tkl%-Challenges, Đội: Arsenal, Giá trị lớn nhất: 56.225
+Chỉ số: Std of Tkl%-Challenges, Đội: Tottenham, Giá trị lớn nhất: 23.276500792224653
+Chỉ số: Median of Lost-Challenges, Đội: Liverpool, Giá trị lớn nhất: 14.5
+Chỉ số: Mean of Lost-Challenges, Đội: Liverpool, Giá trị lớn nhất: 19.13636363636364
+Chỉ số: Std of Lost-Challenges, Đội: Liverpool, Giá trị lớn nhất: 17.85469247256987
+Chỉ số: Median of Blocks, Đội: Luton Town, Giá trị lớn nhất: 22.0
+Chỉ số: Mean of Blocks, Đội: West Ham, Giá trị lớn nhất: 22.045454545454547
+Chỉ số: Std of Blocks, Đội: Everton, Giá trị lớn nhất: 19.759122574172817
+Chỉ số: Median of Sh-Blocks, Đội: Luton Town, Giá trị lớn nhất: 6.0
+Chỉ số: Mean of Sh-Blocks, Đội: West Ham, Giá trị lớn nhất: 8.090909090909092
+Chỉ số: Std of Sh-Blocks, Đội: Everton, Giá trị lớn nhất: 12.994526059456012
+Chỉ số: Median of Pass, Đội: Liverpool, Giá trị lớn nhất: 15.5
+Chỉ số: Mean of Pass, Đội: Liverpool, Giá trị lớn nhất: 16.454545454545453
+Chỉ số: Std of Pass, Đội: Fulham, Giá trị lớn nhất: 13.135013187224878
+Chỉ số: Median of Int, Đội: Fulham, Giá trị lớn nhất: 13.0
+Chỉ số: Mean of Int, Đội: Fulham, Giá trị lớn nhất: 17.523809523809526
+Chỉ số: Std of Int, Đội: Fulham, Giá trị lớn nhất: 18.851045190171945
+Chỉ số: Median of Tkl+Int, Đội: Crystal Palace, Giá trị lớn nhất: 46.0
+Chỉ số: Mean of Tkl+Int, Đội: Fulham, Giá trị lớn nhất: 49.61904761904762
+Chỉ số: Std of Tkl+Int, Đội: Fulham, Giá trị lớn nhất: 50.14626226397755
+Chỉ số: Median of Clr, Đội: Nott'ham Forest, Giá trị lớn nhất: 25.0
+Chỉ số: Mean of Clr, Đội: West Ham, Giá trị lớn nhất: 41.13636363636363
+Chỉ số: Std of Clr, Đội: Crystal Palace, Giá trị lớn nhất: 50.21338524707346
+Chỉ số: Median of Err, Đội: Tottenham, Giá trị lớn nhất: 1.0
+Chỉ số: Mean of Err, Đội: Tottenham, Giá trị lớn nhất: 1.0
+Chỉ số: Std of Err, Đội: Liverpool, Giá trị lớn nhất: 1.4241272864946195
+Chỉ số: Median of Touches, Đội: Manchester City, Giá trị lớn nhất: 1283.0
+Chỉ số: Mean of Touches, Đội: Manchester City, Giá trị lớn nhất: 1492.095238095238
+Chỉ số: Std of Touches, Đội: Manchester City, Giá trị lớn nhất: 1024.4471633403991
+Chỉ số: Median of Def Pen, Đội: Manchester Utd, Giá trị lớn nhất: 55.0
+Chỉ số: Mean of Def Pen, Đội: Fulham, Giá trị lớn nhất: 132.71428571428572
+Chỉ số: Std of Def Pen, Đội: Fulham, Giá trị lớn nhất: 273.749729288842
+Chỉ số: Median of Def 3rd-Touches, Đội: Liverpool, Giá trị lớn nhất: 267.0
+Chỉ số: Mean of Def 3rd-Touches, Đội: Fulham, Giá trị lớn nhất: 408.0952380952381
+Chỉ số: Std of Def 3rd-Touches, Đội: Fulham, Giá trị lớn nhất: 423.59130122818914
+Chỉ số: Median of Mid 3rd-Touches, Đội: Liverpool, Giá trị lớn nhất: 519.0
+Chỉ số: Mean of Mid 3rd-Touches, Đội: Manchester City, Giá trị lớn nhất: 681.8571428571429
+Chỉ số: Std of Mid 3rd-Touches, Đội: Manchester City, Giá trị lớn nhất: 633.0126606723034
+Chỉ số: Median of Att 3rd-Touches, Đội: Manchester City, Giá trị lớn nhất: 395.0
+Chỉ số: Mean of Att 3rd-Touches, Đội: Manchester City, Giá trị lớn nhất: 486.95238095238096
+Chỉ số: Std of Att 3rd-Touches, Đội: Manchester City, Giá trị lớn nhất: 370.90598218288096
+Chỉ số: Median of Att Pen, Đội: Liverpool, Giá trị lớn nhất: 38.0
+Chỉ số: Mean of Att Pen, Đội: Arsenal, Giá trị lớn nhất: 70.28571428571429
+Chỉ số: Std of Att Pen, Đội: Arsenal, Giá trị lớn nhất: 78.20431117089574
+Chỉ số: Median of Live-Touches, Đội: Manchester City, Giá trị lớn nhất: 1283.0
+Chỉ số: Mean of Live-Touches, Đội: Manchester City, Giá trị lớn nhất: 1491.6190476190477
+Chỉ số: Std of Live-Touches, Đội: Manchester City, Giá trị lớn nhất: 1024.7768769927666
+Chỉ số: Median of Att-Take-Ons, Đội: Aston Villa, Giá trị lớn nhất: 30.0
+Chỉ số: Mean of Att-Take-Ons, Đội: Manchester City, Giá trị lớn nhất: 34.714285714285715
+Chỉ số: Std of Att-Take-Ons, Đội: West Ham, Giá trị lớn nhất: 50.30601162082724
+Chỉ số: Median of Succ, Đội: Liverpool, Giá trị lớn nhất: 14.0
+Chỉ số: Mean of Succ, Đội: Manchester City, Giá trị lớn nhất: 17.857142857142858
+Chỉ số: Std of Succ, Đội: West Ham, Giá trị lớn nhất: 27.06689644412309
+Chỉ số: Median of Succ%, Đội: Wolves, Giá trị lớn nhất: 53.05
+Chỉ số: Mean of Succ%, Đội: Wolves, Giá trị lớn nhất: 57.84545454545455
+Chỉ số: Std of Succ%, Đội: West Ham, Giá trị lớn nhất: 25.15000804695507
+Chỉ số: Median of Tkld, Đội: Liverpool, Giá trị lớn nhất: 12.0
+Chỉ số: Mean of Tkld, Đội: Bournemouth, Giá trị lớn nhất: 15.615384615384617
+Chỉ số: Std of Tkld, Đội: West Ham, Giá trị lớn nhất: 19.68721869860189
+Chỉ số: Median of Tkld%, Đội: Everton, Giá trị lớn nhất: 45.7
+Chỉ số: Mean of Tkld%, Đội: Liverpool, Giá trị lớn nhất: 46.53000000000001
+Chỉ số: Std of Tkld%, Đội: Chelsea, Giá trị lớn nhất: 24.08335574033268
+Chỉ số: Median of Carries, Đội: Manchester City, Giá trị lớn nhất: 879.0
+Chỉ số: Mean of Carries, Đội: Manchester City, Giá trị lớn nhất: 959.809523809524
+Chỉ số: Std of Carries, Đội: Manchester City, Giá trị lớn nhất: 656.6072356475839
+Chỉ số: Median of TotDist-Carries, Đội: Manchester City, Giá trị lớn nhất: 4459.0
+Chỉ số: Mean of TotDist-Carries, Đội: Manchester City, Giá trị lớn nhất: 5005.142857142857
+Chỉ số: Std of TotDist-Carries, Đội: Manchester City, Giá trị lớn nhất: 3303.4188696820493
+Chỉ số: Median of ProDist, Đội: Manchester City, Giá trị lớn nhất: 2353.0
+Chỉ số: Mean of ProDist, Đội: Manchester City, Giá trị lớn nhất: 2759.714285714286
+Chỉ số: Std of ProDist, Đội: Manchester City, Giá trị lớn nhất: 1940.871766574421
+Chỉ số: Median of ProgC, Đội: Liverpool, Giá trị lớn nhất: 41.0
+Chỉ số: Mean of ProgC, Đội: Manchester City, Giá trị lớn nhất: 53.47619047619048
+Chỉ số: Std of ProgC, Đội: Manchester City, Giá trị lớn nhất: 51.45640781051379
+Chỉ số: Median of 1/3-Carries, Đội: Manchester City, Giá trị lớn nhất: 46.0
+Chỉ số: Mean of 1/3-Carries, Đội: Manchester City, Giá trị lớn nhất: 41.285714285714285
+Chỉ số: Std of 1/3-Carries, Đội: Manchester City, Giá trị lớn nhất: 27.481162379242363
+Chỉ số: Median of CPA, Đội: Manchester City, Giá trị lớn nhất: 7.0
+Chỉ số: Mean of CPA, Đội: Manchester City, Giá trị lớn nhất: 19.714285714285715
+Chỉ số: Std of CPA, Đội: Manchester City, Giá trị lớn nhất: 33.50095947453275
+Chỉ số: Median of Mis, Đội: Fulham, Giá trị lớn nhất: 25.0
+Chỉ số: Mean of Mis, Đội: Liverpool, Giá trị lớn nhất: 25.727272727272727
+Chỉ số: Std of Mis, Đội: Bournemouth, Giá trị lớn nhất: 29.0551994552544
+Chỉ số: Median of Dis, Đội: Aston Villa, Giá trị lớn nhất: 14.0
+Chỉ số: Mean of Dis, Đội: Liverpool, Giá trị lớn nhất: 18.227272727272727
+Chỉ số: Std of Dis, Đội: West Ham, Giá trị lớn nhất: 26.576891632227586
+Chỉ số: Median of Rec, Đội: Manchester City, Giá trị lớn nhất: 937.0
+Chỉ số: Mean of Rec, Đội: Manchester City, Giá trị lớn nhất: 1156.142857142857
+Chỉ số: Std of Rec, Đội: Manchester City, Giá trị lớn nhất: 815.5530200860203
+Chỉ số: Median of PrgR-Receiving, Đội: Liverpool, Giá trị lớn nhất: 80.5
+Chỉ số: Mean of PrgR-Receiving, Đội: Arsenal, Giá trị lớn nhất: 98.85714285714286
+Chỉ số: Std of PrgR-Receiving, Đội: Arsenal, Giá trị lớn nhất: 130.50259986463325
+Chỉ số: Median of Starts/PT, Đội: Manchester City, Giá trị lớn nhất: 24.0
+Chỉ số: Mean of Starts/PT, Đội: Fulham, Giá trị lớn nhất: 19.904761904761905
+Chỉ số: Std of Starts/PT, Đội: Everton, Giá trị lớn nhất: 13.720098641021776
+Chỉ số: Median of Mn/Start, Đội: West Ham, Giá trị lớn nhất: 85.5
+Chỉ số: Mean of Mn/Start, Đội: Crystal Palace, Giá trị lớn nhất: 84.33333333333333
+Chỉ số: Std of Mn/Start, Đội: Sheffield Utd, Giá trị lớn nhất: 15.162112490428694
+Chỉ số: Median of Compl, Đội: West Ham, Giá trị lớn nhất: 15.0
+Chỉ số: Mean of Compl, Đội: Manchester City, Giá trị lớn nhất: 14.333333333333334
+Chỉ số: Std of Compl, Đội: Everton, Giá trị lớn nhất: 12.652703627719614
+Chỉ số: Median of Subs, Đội: Arsenal, Giá trị lớn nhất: 7.0
+Chỉ số: Mean of Subs, Đội: Fulham, Giá trị lớn nhất: 7.333333333333333
+Chỉ số: Std of Subs, Đội: Tottenham, Giá trị lớn nhất: 6.818559497664328
+Chỉ số: Median of Mn/Sub, Đội: Sheffield Utd, Giá trị lớn nhất: 25.0
+Chỉ số: Mean of Mn/Sub, Đội: Sheffield Utd, Giá trị lớn nhất: 26.33333333333333
+Chỉ số: Std of Mn/Sub, Đội: Newcastle Utd, Giá trị lớn nhất: 14.415299712488318
+Chỉ số: Median of Unused Subs, Đội: Burnley, Giá trị lớn nhất: 4.0
+Chỉ số: Mean of Unused Subs, Đội: Manchester City, Giá trị lớn nhất: 8.0
+Chỉ số: Std of Unused Subs, Đội: West Ham, Giá trị lớn nhất: 9.371597506660208
+Chỉ số: Median of PPM, Đội: Manchester City, Giá trị lớn nhất: 2.39
+Chỉ số: Mean of PPM, Đội: Manchester City, Giá trị lớn nhất: 2.4166666666666665
+Chỉ số: Std of PPM, Đội: All, Giá trị lớn nhất: 0.593055612775332
+Chỉ số: Median of onG, Đội: Manchester City, Giá trị lớn nhất: 55.0
+Chỉ số: Mean of onG, Đội: Manchester City, Giá trị lớn nhất: 50.142857142857146
+Chỉ số: Std of onG, Đội: Arsenal, Giá trị lớn nhất: 29.35910664269509
+Chỉ số: Median of onGA, Đội: West Ham, Giá trị lớn nhất: 39.0
+Chỉ số: Mean of onGA, Đội: Sheffield Utd, Giá trị lớn nhất: 37.766666666666666
+Chỉ số: Std of onGA, Đội: Sheffield Utd, Giá trị lớn nhất: 28.527885128152377
+Chỉ số: Median of onxG, Đội: Liverpool, Giá trị lớn nhất: 45.45
+Chỉ số: Mean of onxG, Đội: Liverpool, Giá trị lớn nhất: 43.62272727272727
+Chỉ số: Std of onxG, Đội: Arsenal, Giá trị lớn nhất: 24.56037265112044
+Chỉ số: Median of onxGA, Đội: West Ham, Giá trị lớn nhất: 36.650000000000006
+Chỉ số: Mean of onxGA, Đội: West Ham, Giá trị lớn nhất: 35.304545454545455
+Chỉ số: Std of onxGA, Đội: West Ham, Giá trị lớn nhất: 23.25652959560323
+Chỉ số: Median of Fls, Đội: Liverpool, Giá trị lớn nhất: 18.0
+Chỉ số: Mean of Fls, Đội: Liverpool, Giá trị lớn nhất: 20.681818181818183
+Chỉ số: Std of Fls, Đội: Chelsea, Giá trị lớn nhất: 18.62319342468776
+Chỉ số: Median of Fld, Đội: Tottenham, Giá trị lớn nhất: 18.0
+Chỉ số: Mean of Fld, Đội: Tottenham, Giá trị lớn nhất: 21.041666666666668
+Chỉ số: Std of Fld, Đội: Newcastle Utd, Giá trị lớn nhất: 23.770605096771657
+Chỉ số: Median of Off/PE, Đội: Brentford, Giá trị lớn nhất: 2.0
+Chỉ số: Mean of Off/PE, Đội: Liverpool, Giá trị lớn nhất: 4.545454545454546
+Chỉ số: Std of Off/PE, Đội: Liverpool, Giá trị lớn nhất: 8.313656422831238
+Chỉ số: Median of Crs/PE, Đội: Fulham, Giá trị lớn nhất: 19.0
+Chỉ số: Mean of Crs/PE, Đội: Liverpool, Giá trị lớn nhất: 37.13636363636363
+Chỉ số: Std of Crs/PE, Đội: Luton Town, Giá trị lớn nhất: 68.00237740942103
+Chỉ số: Median of OG, Đội: All, Giá trị lớn nhất: 0.0
+Chỉ số: Mean of OG, Đội: Sheffield Utd, Giá trị lớn nhất: 0.2333333333333333
+Chỉ số: Std of OG, Đội: Fulham, Giá trị lớn nhất: 0.511766315719159
+Chỉ số: Median of Recov, Đội: Liverpool, Giá trị lớn nhất: 79.5
+Chỉ số: Mean of Recov, Đội: Liverpool, Giá trị lớn nhất: 92.0
+Chỉ số: Std of Recov, Đội: Everton, Giá trị lớn nhất: 68.18606837872834
+Chỉ số: Median of Won, Đội: West Ham, Giá trị lớn nhất: 20.0
+Chỉ số: Mean of Won, Đội: Everton, Giá trị lớn nhất: 29.39130434782609
+Chỉ số: Std of Won, Đội: Everton, Giá trị lớn nhất: 40.6266136803258
+Chỉ số: Median of Lost/AD, Đội: Brentford, Giá trị lớn nhất: 23.0
+Chỉ số: Mean of Lost/AD, Đội: Bournemouth, Giá trị lớn nhất: 25.653846153846157
+Chỉ số: Std of Lost/AD, Đội: Luton Town, Giá trị lớn nhất: 33.11721606657178
+Chỉ số: Median of Won%, Đội: Nott'ham Forest, Giá trị lớn nhất: 54.5
+Chỉ số: Mean of Won%, Đội: Nott'ham Forest, Giá trị lớn nhất: 55.79655172413793
+Chỉ số: Std of Won%, Đội: Manchester City, Giá trị lớn nhất: 25.4451753259517
+
+Đội có phong độ tốt nhất: Manchester City với 105 chỉ số cao nhất.

@@ -1,0 +1,1833 @@
+
+Chỉ số: Rk
+Top 3:
+             Player    Rk
+    Martin Ødegaard 580.0
+         Kurt Zouma 579.0
+Oleksandr Zinchenko 578.0
+Bottom 3:
+          Player  Rk
+      Max Aarons 1.0
+     Tyler Adams 3.0
+Tosin Adarabioyo 4.0
+========================================
+
+Chỉ số: Age
+Top 3:
+          Player  Age
+    Ashley Young 38.0
+Łukasz Fabiański 38.0
+    Thiago Silva 38.0
+Bottom 3:
+        Player  Age
+  Leon Chiwome 17.0
+   Lewis Miley 17.0
+Willy Kambwala 18.0
+========================================
+
+Chỉ số: Matches played
+Top 3:
+           Player  Matches played
+Guglielmo Vicario            38.0
+  Dominic Solanke            38.0
+   William Saliba            38.0
+Bottom 3:
+          Player  Matches played
+   Matheus Nunes             2.0
+Thomas Strakosha             2.0
+     Neal Maupay             2.0
+========================================
+
+Chỉ số: Starts
+Top 3:
+           Player  Starts
+Guglielmo Vicario    38.0
+  James Tarkowski    38.0
+   William Saliba    38.0
+Bottom 3:
+         Player  Starts
+  Kieffer Moore     0.0
+Kalvin Phillips     0.0
+   Matt Ritchie     0.0
+========================================
+
+Chỉ số: Non-Penalty Goals
+Top 3:
+        Player  Non-Penalty Goals
+Erling Haaland               20.0
+    Phil Foden               19.0
+ Ollie Watkins               19.0
+Bottom 3:
+           Player  Non-Penalty Goals
+       Max Aarons                0.0
+Benoît Badiashile                0.0
+     Serge Aurier                0.0
+========================================
+
+Chỉ số: Penalty Goals
+Top 3:
+        Player  Penalty Goals
+   Cole Palmer            9.0
+Erling Haaland            7.0
+   Bukayo Saka            6.0
+Bottom 3:
+         Player  Penalty Goals
+Odsonne Édouard            0.0
+  Ollie Watkins            0.0
+   Adam Webster            0.0
+========================================
+
+Chỉ số: Assists
+Top 3:
+         Player  Assists
+  Ollie Watkins     13.0
+    Cole Palmer     11.0
+Kieran Trippier     10.0
+Bottom 3:
+          Player  Assists
+ Odsonne Édouard      0.0
+     Tyler Adams      0.0
+Tosin Adarabioyo      0.0
+========================================
+
+Chỉ số: Yellow Cards
+Top 3:
+        Player  Yellow Cards
+ Marcos Senesi          13.0
+ João Palhinha          13.0
+Anthony Gordon          12.0
+Bottom 3:
+       Player  Yellow Cards
+  Tyler Adams           0.0
+Anass Zaroury           0.0
+   Chris Wood           0.0
+========================================
+
+Chỉ số: Red Cards
+Top 3:
+         Player  Red Cards
+Oliver McBurnie        2.0
+  Yves Bissouma        2.0
+    Reece James        2.0
+Bottom 3:
+             Player  Red Cards
+         Kurt Zouma        0.0
+Oleksandr Zinchenko        0.0
+     Nicolò Zaniolo        0.0
+========================================
+
+Chỉ số: xG
+Top 3:
+        Player   xG
+Erling Haaland 29.2
+ Mohamed Salah 21.2
+Alexander Isak 20.3
+Bottom 3:
+              Player  xG
+          Max Aarons 0.0
+         Tyler Adams 0.0
+Odisseas Vlachodimos 0.0
+========================================
+
+Chỉ số: npxG
+Top 3:
+         Player  npxG
+ Erling Haaland  22.9
+Nicolas Jackson  18.6
+Dominic Solanke  17.2
+Bottom 3:
+              Player  npxG
+     Bart Verbruggen   0.0
+   Guglielmo Vicario   0.0
+Odisseas Vlachodimos   0.0
+========================================
+
+Chỉ số: xAG
+Top 3:
+         Player  xAG
+  Mohamed Salah 11.8
+  Son Heung-min 11.8
+Bruno Fernandes 11.8
+Bottom 3:
+          Player  xAG
+   Calvin Bassey  0.0
+Thomas Strakosha  0.0
+  Robert Sánchez  0.0
+========================================
+
+Chỉ số: PrgC
+Top 3:
+            Player  PrgC
+       Jeremy Doku 218.0
+Alejandro Garnacho 178.0
+       Bukayo Saka 155.0
+Bottom 3:
+           Player  PrgC
+   Daniel Bentley   0.0
+          Alisson   0.0
+Guglielmo Vicario   0.0
+========================================
+
+Chỉ số: PrgP
+Top 3:
+         Player  PrgP
+          Rodri 376.0
+Martin Ødegaard 344.0
+    Pascal Groß 302.0
+Bottom 3:
+        Player  PrgP
+Daniel Bentley   0.0
+    Bernd Leno   0.0
+          Neto   0.0
+========================================
+
+Chỉ số: PrgR
+Top 3:
+            Player  PrgR
+       Bukayo Saka 508.0
+  Dejan Kulusevski 388.0
+Gabriel Martinelli 345.0
+Bottom 3:
+           Player  PrgR
+Guglielmo Vicario   0.0
+   James Trafford   0.0
+  Bart Verbruggen   0.0
+========================================
+
+Chỉ số: Gls/90
+Top 3:
+        Player  Gls/90
+Sasa Kalajdzic    1.08
+    Jhon Durán    0.95
+Erling Haaland    0.95
+Bottom 3:
+        Player  Gls/90
+    Max Aarons     0.0
+George Baldock     0.0
+ Carlos Baleba     0.0
+========================================
+
+Chỉ số: Ast/90
+Top 3:
+         Player  Ast/90
+  Manor Solomon    0.90
+   Ivan Perišić    0.87
+Kevin De Bruyne    0.74
+Bottom 3:
+       Player  Ast/90
+Auston Trusty     0.0
+ Jayden Bogle     0.0
+  Teden Mengi     0.0
+========================================
+
+Chỉ số: G+A/90
+Top 3:
+       Player  G+A/90
+ Adama Traoré    1.19
+  Cole Palmer    1.14
+Michael Olise    1.13
+Bottom 3:
+              Player  G+A/90
+         Tyler Adams     0.0
+      Valentín Barco     0.0
+Odisseas Vlachodimos     0.0
+========================================
+
+Chỉ số: G-PK/90
+Top 3:
+        Player  G-PK/90
+Sasa Kalajdzic     1.08
+    Jhon Durán     0.95
+ Kieffer Moore     0.83
+Bottom 3:
+         Player  G-PK/90
+Yehor Yarmoliuk      0.0
+    Joe Worrall      0.0
+     Max Aarons      0.0
+========================================
+
+Chỉ số: G+A-PK/90
+Top 3:
+        Player  G+A-PK/90
+  Adama Traoré       1.19
+     Enes Ünal       1.10
+Sasa Kalajdzic       1.08
+Bottom 3:
+        Player  G+A-PK/90
+  Amari'i Bell        0.0
+Daniel Bentley        0.0
+Robert Sánchez        0.0
+========================================
+
+Chỉ số: xG/90
+Top 3:
+        Player  xG/90
+ Kieffer Moore   1.23
+   Neal Maupay   1.16
+Erling Haaland   1.03
+Bottom 3:
+        Player  xG/90
+    Max Aarons    0.0
+   Tyler Adams    0.0
+Arijanet Muric    0.0
+========================================
+
+Chỉ số: xAG/90
+Top 3:
+         Player  xAG/90
+Kevin De Bruyne    0.85
+   Ivan Perišić    0.75
+ Sasa Kalajdzic    0.52
+Bottom 3:
+            Player  xAG/90
+           Alisson     0.0
+Mads Juel Andersen     0.0
+    Jaidon Anthony     0.0
+========================================
+
+Chỉ số: xG + xAG/90
+Top 3:
+        Player  xG + xAG/90
+ Kieffer Moore         1.44
+   Neal Maupay         1.22
+Erling Haaland         1.18
+Bottom 3:
+        Player  xG + xAG/90
+Daniel Bentley          0.0
+Đorđe Petrović          0.0
+       Alisson          0.0
+========================================
+
+Chỉ số: npxG/90
+Top 3:
+        Player  npxG/90
+ Kieffer Moore     1.23
+   Neal Maupay     1.16
+Erling Haaland     0.81
+Bottom 3:
+              Player  npxG/90
+          Max Aarons      0.0
+         Tyler Adams      0.0
+Odisseas Vlachodimos      0.0
+========================================
+
+Chỉ số: npxG + xAG/90
+Top 3:
+        Player  npxG + xAG/90
+ Kieffer Moore           1.44
+   Neal Maupay           1.22
+Sasa Kalajdzic           1.09
+Bottom 3:
+         Player  npxG + xAG/90
+ Daniel Bentley            0.0
+        Alisson            0.0
+Jordan Pickford            0.0
+========================================
+
+Chỉ số: GA
+Top 3:
+         Player   GA
+Thomas Kaminski 85.0
+Wes Foderingham 79.0
+   Mark Flekken 63.0
+Bottom 3:
+          Player  GA
+Thomas Strakosha 2.0
+  Aaron Ramsdale 5.0
+    Mark Travers 5.0
+========================================
+
+Chỉ số: GA90
+Top 3:
+     Player  GA90
+ Ionuț Radu  3.50
+  Ivo Grbić  2.92
+Robin Olsen  2.89
+Bottom 3:
+        Player  GA90
+    David Raya  0.75
+Aaron Ramsdale  0.83
+       Ederson  0.87
+========================================
+
+Chỉ số: SoTA
+Top 3:
+         Player  SoTA
+Thomas Kaminski 221.0
+Wes Foderingham 204.0
+    André Onana 203.0
+Bottom 3:
+          Player  SoTA
+Thomas Strakosha   8.0
+      Ionuț Radu  11.0
+  Aaron Ramsdale  14.0
+========================================
+
+Chỉ số: Saves
+Top 3:
+         Player  Saves
+    André Onana  146.0
+Thomas Kaminski  140.0
+Alphonse Areola  136.0
+Bottom 3:
+          Player  Saves
+      Ionuț Radu    4.0
+Thomas Strakosha    6.0
+  Daniel Bentley    8.0
+========================================
+
+Chỉ số: Save%-Performance
+Top 3:
+          Player  Save%-Performance
+  Arijanet Muric               80.8
+    Mark Travers               77.8
+Thomas Strakosha               75.0
+Bottom 3:
+              Player  Save%-Performance
+          Ionuț Radu               36.4
+Odisseas Vlachodimos               50.0
+      Daniel Bentley               53.3
+========================================
+
+Chỉ số: W
+Top 3:
+           Player    W
+          Ederson 24.0
+       David Raya 23.0
+Guglielmo Vicario 20.0
+Bottom 3:
+          Player   W
+       Ivo Grbić 0.0
+Thomas Strakosha 0.0
+     Robin Olsen 1.0
+========================================
+
+Chỉ số: D
+Top 3:
+         Player   D
+Alphonse Areola 9.0
+           Neto 9.0
+Jordan Pickford 9.0
+Bottom 3:
+          Player   D
+  Daniel Bentley 0.0
+Thomas Strakosha 0.0
+      Ionuț Radu 0.0
+========================================
+
+Chỉ số: L
+Top 3:
+         Player    L
+Thomas Kaminski 24.0
+Wes Foderingham 22.0
+ James Trafford 20.0
+Bottom 3:
+           Player   L
+Caoimhín Kelleher 0.0
+    Stefan Ortega 0.0
+   Aaron Ramsdale 0.0
+========================================
+
+Chỉ số: CS
+Top 3:
+         Player   CS
+     David Raya 16.0
+Jordan Pickford 13.0
+     Bernd Leno 10.0
+Bottom 3:
+        Player  CS
+Arijanet Muric 0.0
+     Ivo Grbić 0.0
+    Ionuț Radu 0.0
+========================================
+
+Chỉ số: CS%
+Top 3:
+       Player  CS%
+Stefan Ortega 60.0
+   David Raya 50.0
+ Mark Travers 50.0
+Bottom 3:
+        Player  CS%
+Arijanet Muric  0.0
+     Ivo Grbić  0.0
+    Ionuț Radu  0.0
+========================================
+
+Chỉ số: PKatt-PK
+Top 3:
+         Player  PKatt-PK
+     Bernd Leno       8.0
+Jordan Pickford       8.0
+        José Sá       8.0
+Bottom 3:
+           Player  PKatt-PK
+   Daniel Bentley       0.0
+Caoimhín Kelleher       0.0
+       Ionuț Radu       0.0
+========================================
+
+Chỉ số: PKA
+Top 3:
+         Player  PKA
+     Bernd Leno  8.0
+Jordan Pickford  8.0
+        José Sá  8.0
+Bottom 3:
+           Player  PKA
+   Daniel Bentley  0.0
+        Ivo Grbić  0.0
+Caoimhín Kelleher  0.0
+========================================
+
+Chỉ số: PKsv
+Top 3:
+         Player  PKsv
+Alphonse Areola   2.0
+Martin Dúbravka   1.0
+           Neto   1.0
+Bottom 3:
+          Player  PKsv
+         Alisson   0.0
+  Daniel Bentley   0.0
+Łukasz Fabiański   0.0
+========================================
+
+Chỉ số: PKm
+Top 3:
+         Player  PKm
+      Ivo Grbić  1.0
+Wes Foderingham  1.0
+ Đorđe Petrović  1.0
+Bottom 3:
+         Player  PKm
+        Alisson  0.0
+Alphonse Areola  0.0
+ Daniel Bentley  0.0
+========================================
+
+Chỉ số: Save%/PK
+Top 3:
+        Player  Save%/PK
+   Robin Olsen     100.0
+Arijanet Muric      50.0
+    David Raya      33.3
+Bottom 3:
+      Player  Save%/PK
+     Alisson       0.0
+     Ederson       0.0
+Mark Flekken       0.0
+========================================
+
+Chỉ số: Gls
+Top 3:
+        Player  Gls
+Erling Haaland 27.0
+   Cole Palmer 22.0
+Alexander Isak 21.0
+Bottom 3:
+        Player  Gls
+    Max Aarons  0.0
+Sofyan Amrabat  0.0
+       Alisson  0.0
+========================================
+
+Chỉ số: Sh
+Top 3:
+        Player    Sh
+Erling Haaland 113.0
+ Mohamed Salah 107.0
+ Ollie Watkins 107.0
+Bottom 3:
+         Player  Sh
+Alphonse Areola 0.0
+ Daniel Bentley 0.0
+   Jason Steele 0.0
+========================================
+
+Chỉ số: SoT
+Top 3:
+        Player  SoT
+Erling Haaland 50.0
+    Phil Foden 48.0
+ Ollie Watkins 47.0
+Bottom 3:
+        Player  SoT
+    Max Aarons  0.0
+   Tyler Adams  0.0
+George Baldock  0.0
+========================================
+
+Chỉ số: SoT%
+Top 3:
+          Player  SoT%
+        Tim Ream 100.0
+Shandon Baptiste 100.0
+    Amari'i Bell 100.0
+Bottom 3:
+        Player  SoT%
+    Max Aarons   0.0
+George Baldock   0.0
+     Joel Ward   0.0
+========================================
+
+Chỉ số: Sh/90
+Top 3:
+       Player  Sh/90
+    Enes Ünal   6.31
+ Julio Enciso   5.31
+Kieffer Moore   5.00
+Bottom 3:
+          Player  Sh/90
+     Tyler Adams    0.0
+         Alisson    0.0
+Thomas Strakosha    0.0
+========================================
+
+Chỉ số: SoT/90
+Top 3:
+      Player  SoT/90
+ Neal Maupay    3.24
+Matt Ritchie    2.81
+   Enes Ünal    2.20
+Bottom 3:
+        Player  SoT/90
+    Max Aarons     0.0
+   Tyler Adams     0.0
+George Baldock     0.0
+========================================
+
+Chỉ số: G/Sh
+Top 3:
+         Player  G/Sh
+       Tim Ream   1.0
+Hannibal Mejbri   1.0
+Trevoh Chalobah   0.5
+Bottom 3:
+         Player  G/Sh
+     Max Aarons   0.0
+Elliot Anderson   0.0
+ Jaidon Anthony   0.0
+========================================
+
+Chỉ số: G/SoT
+Top 3:
+          Player  G/SoT
+Micky van de Ven    1.0
+      Kenny Tete    1.0
+  Charlie Taylor    1.0
+Bottom 3:
+          Player  G/SoT
+    Serge Aurier    0.0
+Oliver Arblaster    0.0
+    Fabio Vieira    0.0
+========================================
+
+Chỉ số: Dist
+Top 3:
+        Player  Dist
+Oliver Norwood  32.9
+   Kyle Walker  29.4
+Moisés Caicedo  29.0
+Bottom 3:
+            Player  Dist
+          Tim Ream   1.3
+Andrew Omobamidele   5.1
+       Jonny Evans   5.4
+========================================
+
+Chỉ số: FK-Shooting
+Top 3:
+           Player  FK-Shooting
+James Ward-Prowse         16.0
+   Julián Álvarez         13.0
+     Eberechi Eze         12.0
+Bottom 3:
+       Player  FK-Shooting
+ Ben Brereton          0.0
+Ollie Watkins          0.0
+ Adam Webster          0.0
+========================================
+
+Chỉ số: PK
+Top 3:
+        Player  PK
+   Cole Palmer 9.0
+Erling Haaland 7.0
+   Bukayo Saka 6.0
+Bottom 3:
+         Player  PK
+Odsonne Édouard 0.0
+  Ollie Watkins 0.0
+   Adam Webster 0.0
+========================================
+
+Chỉ số: PKatt-Standard
+Top 3:
+        Player  PKatt-Standard
+   Cole Palmer             9.0
+Erling Haaland             8.0
+ Mohamed Salah             7.0
+Bottom 3:
+         Player  PKatt-Standard
+Odsonne Édouard             0.0
+  Ollie Watkins             0.0
+   Adam Webster             0.0
+========================================
+
+Chỉ số: xG-Shooting
+Top 3:
+        Player  xG-Shooting
+Erling Haaland         29.2
+ Mohamed Salah         21.2
+Alexander Isak         20.3
+Bottom 3:
+              Player  xG-Shooting
+          Max Aarons          0.0
+         Tyler Adams          0.0
+Odisseas Vlachodimos          0.0
+========================================
+
+Chỉ số: npxG-Shooting
+Top 3:
+         Player  npxG-Shooting
+ Erling Haaland           22.9
+Nicolas Jackson           18.6
+Dominic Solanke           17.2
+Bottom 3:
+              Player  npxG-Shooting
+     Bart Verbruggen            0.0
+   Guglielmo Vicario            0.0
+Odisseas Vlachodimos            0.0
+========================================
+
+Chỉ số: npxG/Sh
+Top 3:
+            Player  npxG/Sh
+          Tim Ream     0.96
+  Shandon Baptiste     0.45
+Leander Dendoncker     0.37
+Bottom 3:
+        Player  npxG/Sh
+    Max Aarons     0.02
+George Baldock     0.02
+   Kyle Walker     0.02
+========================================
+
+Chỉ số: G-xG
+Top 3:
+              Player  G-xG
+          Phil Foden   8.7
+  Callum Hudson-Odoi   5.3
+Jean-Philippe Mateta   5.1
+Bottom 3:
+               Player  G-xG
+Dominic Calvert-Lewin  -5.9
+         Darwin Núñez  -5.3
+      Brennan Johnson  -5.3
+========================================
+
+Chỉ số: np:xG-xG
+Top 3:
+            Player  np:xG-xG
+        Phil Foden       8.7
+Callum Hudson-Odoi       5.3
+        Diogo Jota       4.7
+Bottom 3:
+               Player  np:xG-xG
+Dominic Calvert-Lewin      -6.4
+      Brennan Johnson      -5.3
+      Nicolas Jackson      -4.6
+========================================
+
+Chỉ số: Cmp/Short
+Top 3:
+     Player  Cmp/Short
+      Rodri     1676.0
+Pascal Groß     1583.0
+ Lewis Dunk     1343.0
+Bottom 3:
+          Player  Cmp/Short
+Thomas Strakosha        6.0
+    Mark Travers       10.0
+     Neal Maupay       12.0
+========================================
+
+Chỉ số: Att/Short
+Top 3:
+     Player  Att/Short
+      Rodri     1774.0
+Pascal Groß     1674.0
+ Lewis Dunk     1382.0
+Bottom 3:
+          Player  Att/Short
+Thomas Strakosha        6.0
+    Mark Travers       10.0
+     Neal Maupay       13.0
+========================================
+
+Chỉ số: Cmp%/Short
+Top 3:
+              Player  Cmp%/Short
+Odisseas Vlachodimos       100.0
+        Mark Travers       100.0
+         Matt Turner       100.0
+Bottom 3:
+          Player  Cmp%/Short
+   William Osula        58.9
+Youssef Chermiti        59.4
+      Ivan Toney        61.6
+========================================
+
+Chỉ số: Cmp/Medium
+Top 3:
+         Player  Cmp/Medium
+Virgil van Dijk      1343.0
+     Lewis Dunk      1340.0
+ William Saliba      1298.0
+Bottom 3:
+       Player  Cmp/Medium
+Kieffer Moore         4.0
+ Leon Chiwome         6.0
+Maxwel Cornet         6.0
+========================================
+
+Chỉ số: Att/Medium
+Top 3:
+         Player  Att/Medium
+     Lewis Dunk      1417.0
+Virgil van Dijk      1412.0
+ William Saliba      1373.0
+Bottom 3:
+       Player  Att/Medium
+ Leon Chiwome         6.0
+Kieffer Moore         8.0
+Maxwel Cornet         8.0
+========================================
+
+Chỉ số: Cmp%/Medium
+Top 3:
+        Player  Cmp%/Medium
+Daniel Bentley        100.0
+  Mark Travers        100.0
+    David Ozoh        100.0
+Bottom 3:
+               Player  Cmp%/Medium
+        William Osula         40.0
+       Rhian Brewster         45.5
+Dominic Calvert-Lewin         49.5
+========================================
+
+Chỉ số: Cmp/Long
+Top 3:
+         Player  Cmp/Long
+Jordan Pickford     461.0
+   Mark Flekken     394.0
+Thomas Kaminski     362.0
+Bottom 3:
+        Player  Cmp/Long
+ Kieffer Moore       0.0
+ Nathan Fraser       0.0
+Tim Iroegbunam       0.0
+========================================
+
+Chỉ số: Att/Long
+Top 3:
+         Player  Att/Long
+Jordan Pickford    1031.0
+Thomas Kaminski     937.0
+   Mark Flekken     832.0
+Bottom 3:
+        Player  Att/Long
+Tim Iroegbunam       0.0
+ Nathan Fraser       0.0
+ Kieffer Moore       0.0
+========================================
+
+Chỉ số: Cmp%/Long
+Top 3:
+         Player  Cmp%/Long
+Carlos Vinícius      100.0
+   Bénie Traoré      100.0
+    Neal Maupay      100.0
+Bottom 3:
+        Player  Cmp%/Long
+ Maxwel Cornet        0.0
+    Danny Ings       12.5
+Jaidon Anthony       16.7
+========================================
+
+Chỉ số: In
+Top 3:
+       Player   In
+  Bukayo Saka 99.0
+   Lewis Cook 81.0
+Alfie Doughty 66.0
+Bottom 3:
+          Player  In
+  Jaidon Anthony 0.0
+ Elliot Anderson 0.0
+Joachim Andersen 0.0
+========================================
+
+Chỉ số: Out
+Top 3:
+         Player  Out
+  Alfie Doughty 80.0
+Andreas Pereira 74.0
+    Pascal Groß 57.0
+Bottom 3:
+       Player  Out
+   Max Aarons  0.0
+Ollie Watkins  0.0
+ Adam Webster  0.0
+========================================
+
+Chỉ số: Str
+Top 3:
+         Player  Str
+  Pablo Sarabia 10.0
+Bruno Fernandes  8.0
+Kieran Trippier  8.0
+Bottom 3:
+         Player  Str
+Odsonne Édouard  0.0
+  Ollie Watkins  0.0
+   Adam Webster  0.0
+========================================
+
+Chỉ số: Cmp-OC
+Top 3:
+     Player  Cmp-OC
+      Rodri  3365.0
+ Lewis Dunk  2977.0
+Pascal Groß  2774.0
+Bottom 3:
+      Player  Cmp-OC
+Leon Chiwome    19.0
+ Neal Maupay    22.0
+  Alex Iwobi    27.0
+========================================
+
+Chỉ số: Off-OC
+Top 3:
+         Player  Off-OC
+Bruno Fernandes    23.0
+ Enzo Fernández    17.0
+Martin Ødegaard    16.0
+Bottom 3:
+       Player  Off-OC
+    Enes Ünal     0.0
+  Tyler Adams     0.0
+Anass Zaroury     0.0
+========================================
+
+Chỉ số: Blocks-OC
+Top 3:
+          Player  Blocks-OC
+ Tyrick Mitchell       70.0
+     Pedro Porro       68.0
+Antonee Robinson       68.0
+Bottom 3:
+          Player  Blocks-OC
+  Robert Sánchez        0.0
+     Fábio Silva        0.0
+Thomas Strakosha        0.0
+========================================
+
+Chỉ số: SCA
+Top 3:
+         Player   SCA
+Martin Ødegaard 220.0
+Bruno Fernandes 210.0
+    Bukayo Saka 188.0
+Bottom 3:
+            Player  SCA
+Mads Juel Andersen  0.0
+        Ionuț Radu  0.0
+    Angelo Ogbonna  0.0
+========================================
+
+Chỉ số: SCA90
+Top 3:
+         Player  SCA90
+  Manor Solomon   8.59
+     Alex Iwobi   7.77
+Kevin De Bruyne   7.36
+Bottom 3:
+            Player  SCA90
+     Stefan Ortega    0.0
+        David Ozoh    0.0
+Mads Juel Andersen    0.0
+========================================
+
+Chỉ số: PassLive/SCA
+Top 3:
+         Player  PassLive/SCA
+Martin Ødegaard         178.0
+Bruno Fernandes         143.0
+    Bukayo Saka         137.0
+Bottom 3:
+            Player  PassLive/SCA
+Mads Juel Andersen           0.0
+        Ionuț Radu           0.0
+    Angelo Ogbonna           0.0
+========================================
+
+Chỉ số: PassDead/SCA
+Top 3:
+           Player  PassDead/SCA
+      Pascal Groß          54.0
+James Ward-Prowse          51.0
+  Andreas Pereira          48.0
+Bottom 3:
+         Player  PassDead/SCA
+ Sofyan Amrabat           0.0
+   Zeki Amdouni           0.0
+Ameen Al-Dakhil           0.0
+========================================
+
+Chỉ số: TO/SCA
+Top 3:
+         Player  TO/SCA
+ Mohammed Kudus    25.0
+Nicolas Jackson    18.0
+    Jeremy Doku    17.0
+Bottom 3:
+          Player  TO/SCA
+      Max Aarons     0.0
+     Tyler Adams     0.0
+Tosin Adarabioyo     0.0
+========================================
+
+Chỉ số: Sh/SCA
+Top 3:
+       Player  Sh/SCA
+Mohamed Salah    21.0
+Ollie Watkins    18.0
+    Luis Díaz    15.0
+Bottom 3:
+       Player  Sh/SCA
+   Max Aarons     0.0
+  Tyler Adams     0.0
+Anass Zaroury     0.0
+========================================
+
+Chỉ số: Fld/SCA
+Top 3:
+            Player  Fld/SCA
+    Anthony Gordon     13.0
+    Mohammed Kudus     12.0
+Alejandro Garnacho     12.0
+Bottom 3:
+          Player  Fld/SCA
+   Edson Álvarez      0.0
+     Tyler Adams      0.0
+Tosin Adarabioyo      0.0
+========================================
+
+Chỉ số: Def/SCA
+Top 3:
+            Player  Def/SCA
+             Rodri      6.0
+Idrissa Gana Gueye      6.0
+   Conor Gallagher      6.0
+Bottom 3:
+        Player  Def/SCA
+   Joe Worrall      0.0
+Cauley Woodrow      0.0
+    Chris Wood      0.0
+========================================
+
+Chỉ số: GCA
+Top 3:
+        Player  GCA
+Anthony Gordon 29.0
+   Cole Palmer 26.0
+ Ollie Watkins 26.0
+Bottom 3:
+          Player  GCA
+     Tyler Adams  0.0
+Tosin Adarabioyo  0.0
+    Chris Basham  0.0
+========================================
+
+Chỉ số: GCA90
+Top 3:
+            Player  GCA90
+        Oscar Bobb   1.79
+      Ivan Perišić   1.75
+Carney Chukwuemeka   1.59
+Bottom 3:
+          Player  GCA90
+     Tyler Adams    0.0
+Tosin Adarabioyo    0.0
+  Valentín Barco    0.0
+========================================
+
+Chỉ số: PassLive/GCA
+Top 3:
+         Player  PassLive/GCA
+    Cole Palmer          20.0
+Martin Ødegaard          18.0
+          Rodri          17.0
+Bottom 3:
+          Player  PassLive/GCA
+     Tyler Adams           0.0
+Tosin Adarabioyo           0.0
+    Chris Basham           0.0
+========================================
+
+Chỉ số: PassDead/GCA
+Top 3:
+           Player  PassDead/GCA
+James Ward-Prowse           7.0
+    Alfie Doughty           5.0
+  Conor Gallagher           5.0
+Bottom 3:
+       Player  PassDead/GCA
+Ollie Watkins           0.0
+ Adam Webster           0.0
+Danny Welbeck           0.0
+========================================
+
+Chỉ số: TO/GCA
+Top 3:
+         Player  TO/GCA
+ Anthony Gordon     5.0
+Bruno Guimarães     4.0
+    Pascal Groß     4.0
+Bottom 3:
+         Player  TO/GCA
+Martin Ødegaard     0.0
+Odsonne Édouard     0.0
+ Julián Álvarez     0.0
+========================================
+
+Chỉ số: Sh/GCA
+Top 3:
+               Player  Sh/GCA
+        Ollie Watkins     7.0
+       Anthony Gordon     4.0
+Dominic Calvert-Lewin     3.0
+Bottom 3:
+      Player  Sh/GCA
+Harry Wilson     0.0
+ Joe Willock     0.0
+      Antony     0.0
+========================================
+
+Chỉ số: Fld/GCA
+Top 3:
+          Player  Fld/GCA
+  Anthony Gordon      5.0
+Chiedozie Ogbene      4.0
+ Rayan Aït-Nouri      3.0
+Bottom 3:
+          Player  Fld/GCA
+  Cameron Archer      0.0
+Oliver Arblaster      0.0
+          Antony      0.0
+========================================
+
+Chỉ số: Def/GCA
+Top 3:
+      Player  Def/GCA
+James Garner      2.0
+ Cole Palmer      2.0
+      Antony      2.0
+Bottom 3:
+         Player  Def/GCA
+Odsonne Édouard      0.0
+  Ollie Watkins      0.0
+   Adam Webster      0.0
+========================================
+
+Chỉ số: Tkl-Challenges
+Top 3:
+             Player  Tkl-Challenges
+      João Palhinha           103.0
+        Pedro Porro            62.0
+Alexis Mac Allister            59.0
+Bottom 3:
+              Player  Tkl-Challenges
+   Guglielmo Vicario             0.0
+      Daniel Bentley             0.0
+Odisseas Vlachodimos             0.0
+========================================
+
+Chỉ số: Att-Challenges
+Top 3:
+             Player  Att-Challenges
+      João Palhinha           152.0
+Alexis Mac Allister           125.0
+        Pedro Porro           120.0
+Bottom 3:
+          Player  Att-Challenges
+Thomas Strakosha             0.0
+  Robert Sánchez             0.0
+     Matt Turner             0.0
+========================================
+
+Chỉ số: Tkl%-Challenges
+Top 3:
+            Player  Tkl%-Challenges
+      Fabio Vieira            100.0
+Mads Juel Andersen            100.0
+     Radu Drăgușin            100.0
+Bottom 3:
+     Player  Tkl%-Challenges
+    José Sá              0.0
+    Alisson              0.0
+John Stones              0.0
+========================================
+
+Chỉ số: Lost-Challenges
+Top 3:
+                Player  Lost-Challenges
+        Mathias Jensen             69.0
+   Alexis Mac Allister             66.0
+Trent Alexander-Arnold             60.0
+Bottom 3:
+         Player  Lost-Challenges
+Anthony Martial              0.0
+     Bernd Leno              0.0
+  Benson Manuel              0.0
+========================================
+
+Chỉ số: Blocks
+Top 3:
+             Player  Blocks
+    James Tarkowski    82.0
+           Casemiro    74.0
+Alexis Mac Allister    65.0
+Bottom 3:
+              Player  Blocks
+   Guglielmo Vicario     0.0
+     Bart Verbruggen     0.0
+Odisseas Vlachodimos     0.0
+========================================
+
+Chỉ số: Sh-Blocks
+Top 3:
+         Player  Sh-Blocks
+James Tarkowski       56.0
+   Craig Dawson       39.0
+   Fabian Schär       38.0
+Bottom 3:
+         Player  Sh-Blocks
+    Tyler Adams        0.0
+ Julián Álvarez        0.0
+Alphonse Areola        0.0
+========================================
+
+Chỉ số: Pass
+Top 3:
+             Player  Pass
+Alexis Mac Allister  57.0
+    Tyrick Mitchell  53.0
+   Antonee Robinson  48.0
+Bottom 3:
+           Player  Pass
+   James Trafford   0.0
+   Daniel Bentley   0.0
+Emiliano Martínez   0.0
+========================================
+
+Chỉ số: Int
+Top 3:
+          Player  Int
+Antonee Robinson 80.0
+      Lewis Cook 65.0
+     Teden Mengi 57.0
+Bottom 3:
+              Player  Int
+       Anass Zaroury  0.0
+      Daniel Bentley  0.0
+Odisseas Vlachodimos  0.0
+========================================
+
+Chỉ số: Tkl+Int
+Top 3:
+          Player  Tkl+Int
+   João Palhinha    198.0
+Antonee Robinson    173.0
+  Vinicius Souza    157.0
+Bottom 3:
+              Player  Tkl+Int
+Odisseas Vlachodimos      0.0
+      Daniel Bentley      0.0
+         Matt Turner      0.0
+========================================
+
+Chỉ số: Clr
+Top 3:
+          Player   Clr
+Joachim Andersen 207.0
+ James Tarkowski 191.0
+         Murillo 188.0
+Bottom 3:
+          Player  Clr
+     Fábio Silva  0.0
+Thomas Strakosha  0.0
+       Gio Reyna  0.0
+========================================
+
+Chỉ số: Err
+Top 3:
+                Player  Err
+       Wes Foderingham  6.0
+               José Sá  5.0
+Trent Alexander-Arnold  5.0
+Bottom 3:
+        Player  Err
+Cauley Woodrow  0.0
+    Chris Wood  0.0
+   Yoane Wissa  0.0
+========================================
+
+Chỉ số: Touches
+Top 3:
+     Player  Touches
+      Rodri   3988.0
+Pascal Groß   3534.0
+ Lewis Dunk   3481.0
+Bottom 3:
+      Player  Touches
+Leon Chiwome     39.0
+ Neal Maupay     40.0
+  John Fleck     49.0
+========================================
+
+Chỉ số: Def Pen
+Top 3:
+           Player  Def Pen
+       Bernd Leno   1275.0
+     Mark Flekken   1268.0
+Guglielmo Vicario   1252.0
+Bottom 3:
+       Player  Def Pen
+Benson Manuel      0.0
+Kieffer Moore      0.0
+ Lewis Dobbin      0.0
+========================================
+
+Chỉ số: Def 3rd-Touches
+Top 3:
+           Player  Def 3rd-Touches
+       Lewis Dunk           1811.0
+Guglielmo Vicario           1664.0
+       Bernd Leno           1645.0
+Bottom 3:
+       Player  Def 3rd-Touches
+  Neal Maupay              1.0
+Kieffer Moore              2.0
+ Leon Chiwome              5.0
+========================================
+
+Chỉ số: Mid 3rd-Touches
+Top 3:
+         Player  Mid 3rd-Touches
+          Rodri           2337.0
+Virgil van Dijk           1757.0
+ William Saliba           1720.0
+Bottom 3:
+        Player  Mid 3rd-Touches
+  Mark Travers              0.0
+    Ionuț Radu              0.0
+Dean Henderson              0.0
+========================================
+
+Chỉ số: Att 3rd-Touches
+Top 3:
+         Player  Att 3rd-Touches
+    Bukayo Saka           1310.0
+     Phil Foden           1211.0
+Martin Ødegaard           1173.0
+Bottom 3:
+           Player  Att 3rd-Touches
+   James Trafford              0.0
+Emiliano Martínez              0.0
+       Bernd Leno              0.0
+========================================
+
+Chỉ số: Att Pen
+Top 3:
+            Player  Att Pen
+       Bukayo Saka    271.0
+Alejandro Garnacho    248.0
+     Mohamed Salah    241.0
+Bottom 3:
+              Player  Att Pen
+Odisseas Vlachodimos      0.0
+           Matz Sels      0.0
+             Alisson      0.0
+========================================
+
+Chỉ số: Live-Touches
+Top 3:
+     Player  Live-Touches
+      Rodri        3988.0
+Pascal Groß        3533.0
+ Lewis Dunk        3481.0
+Bottom 3:
+      Player  Live-Touches
+Leon Chiwome          39.0
+ Neal Maupay          40.0
+  John Fleck          49.0
+========================================
+
+Chỉ số: Att-Take-Ons
+Top 3:
+        Player  Att-Take-Ons
+Mohammed Kudus         221.0
+   Jeremy Doku         169.0
+  Eberechi Eze         140.0
+Bottom 3:
+        Player  Att-Take-Ons
+Daniel Bentley           0.0
+Đorđe Petrović           0.0
+ Stefan Ortega           0.0
+========================================
+
+Chỉ số: Succ
+Top 3:
+         Player  Succ
+ Mohammed Kudus 124.0
+    Jeremy Doku  87.0
+Bruno Guimarães  72.0
+Bottom 3:
+           Player  Succ
+Guglielmo Vicario   0.0
+   Daniel Bentley   0.0
+          Alisson   0.0
+========================================
+
+Chỉ số: Succ%
+Top 3:
+         Player  Succ%
+Bart Verbruggen  100.0
+Alphonse Areola  100.0
+ James Trafford  100.0
+Bottom 3:
+            Player  Succ%
+      Adam Webster    0.0
+Mads Juel Andersen    0.0
+       Sven Botman    0.0
+========================================
+
+Chỉ số: Tkld
+Top 3:
+          Player  Tkld
+  Mohammed Kudus  77.0
+ Raheem Sterling  70.0
+Dejan Kulusevski  66.0
+Bottom 3:
+           Player  Tkld
+       Luke Berry   0.0
+Guglielmo Vicario   0.0
+          Alisson   0.0
+========================================
+
+Chỉ số: Tkld%
+Top 3:
+            Player  Tkld%
+Mads Juel Andersen  100.0
+       Sven Botman  100.0
+    Connor Roberts  100.0
+Bottom 3:
+         Player  Tkld%
+Alphonse Areola    0.0
+Bart Verbruggen    0.0
+ James Trafford    0.0
+========================================
+
+Chỉ số: Carries
+Top 3:
+     Player  Carries
+      Rodri   2513.0
+ Lewis Dunk   2417.0
+Pascal Groß   2284.0
+Bottom 3:
+      Player  Carries
+Leon Chiwome     16.0
+  John Fleck     19.0
+ Neal Maupay     20.0
+========================================
+
+Chỉ số: TotDist-Carries
+Top 3:
+    Player  TotDist-Carries
+     Rodri          11575.0
+Rúben Dias          10862.0
+Lewis Dunk          10752.0
+Bottom 3:
+       Player  TotDist-Carries
+   John Fleck             81.0
+ Leon Chiwome             86.0
+Nathan Fraser             88.0
+========================================
+
+Chỉ số: ProDist
+Top 3:
+            Player  ProDist
+        Rúben Dias   6693.0
+             Rodri   6408.0
+Jan Paul van Hecke   6274.0
+Bottom 3:
+            Player  ProDist
+     Nathan Fraser     22.0
+Leander Dendoncker     27.0
+        Luke Berry     30.0
+========================================
+
+Chỉ số: ProgC
+Top 3:
+            Player  ProgC
+       Jeremy Doku  218.0
+Alejandro Garnacho  178.0
+       Bukayo Saka  155.0
+Bottom 3:
+           Player  ProgC
+   Daniel Bentley    0.0
+          Alisson    0.0
+Guglielmo Vicario    0.0
+========================================
+
+Chỉ số: 1/3-Carries
+Top 3:
+            Player  1/3-Carries
+             Rodri         88.0
+   Martin Ødegaard         83.0
+Alejandro Garnacho         83.0
+Bottom 3:
+           Player  1/3-Carries
+  Hannibal Mejbri          0.0
+ Thomas Strakosha          0.0
+Emiliano Martínez          0.0
+========================================
+
+Chỉ số: CPA
+Top 3:
+            Player   CPA
+       Jeremy Doku 147.0
+Alejandro Garnacho 102.0
+  Dejan Kulusevski  82.0
+Bottom 3:
+              Player  CPA
+Odisseas Vlachodimos  0.0
+             Alisson  0.0
+      Sofyan Amrabat  0.0
+========================================
+
+Chỉ số: Mis
+Top 3:
+              Player   Mis
+     Dominic Solanke 136.0
+Jean-Philippe Mateta  89.0
+     Nicolas Jackson  87.0
+Bottom 3:
+          Player  Mis
+Thomas Strakosha  0.0
+  Daniel Bentley  0.0
+       Nick Pope  0.0
+========================================
+
+Chỉ số: Dis
+Top 3:
+         Player  Dis
+ Mohammed Kudus 93.0
+  Lucas Paquetá 81.0
+Dominic Solanke 81.0
+Bottom 3:
+     Player  Dis
+Tyler Adams  0.0
+Joe Worrall  0.0
+    Alisson  0.0
+========================================
+
+Chỉ số: Rec
+Top 3:
+     Player    Rec
+      Rodri 3242.0
+Pascal Groß 2736.0
+ Lewis Dunk 2681.0
+Bottom 3:
+      Player  Rec
+Leon Chiwome 18.0
+  John Fleck 27.0
+ Neal Maupay 28.0
+========================================
+
+Chỉ số: PrgR-Receiving
+Top 3:
+            Player  PrgR-Receiving
+       Bukayo Saka           508.0
+  Dejan Kulusevski           388.0
+Gabriel Martinelli           345.0
+Bottom 3:
+           Player  PrgR-Receiving
+Guglielmo Vicario             0.0
+   James Trafford             0.0
+  Bart Verbruggen             0.0
+========================================
+
+Chỉ số: Starts/PT
+Top 3:
+           Player  Starts/PT
+Guglielmo Vicario       38.0
+  James Tarkowski       38.0
+   William Saliba       38.0
+Bottom 3:
+         Player  Starts/PT
+  Kieffer Moore        0.0
+Kalvin Phillips        0.0
+   Matt Ritchie        0.0
+========================================
+
+Chỉ số: Mn/Start
+Top 3:
+          Player  Mn/Start
+     Tyler Adams      90.0
+Tosin Adarabioyo      90.0
+     Matt Turner      90.0
+Bottom 3:
+                Player  Mn/Start
+Rhys Norrington-Davies      27.0
+            Tom Davies      45.0
+            John Fleck      45.0
+========================================
+
+Chỉ số: Compl
+Top 3:
+           Player  Compl
+Guglielmo Vicario   38.0
+       Max Kilman   38.0
+      André Onana   38.0
+Bottom 3:
+          Player  Compl
+   Anass Zaroury    0.0
+Shandon Baptiste    0.0
+ Carlos Vinícius    0.0
+========================================
+
+Chỉ số: Subs
+Top 3:
+         Player  Subs
+Pierre Højbjerg  28.0
+ Harvey Elliott  23.0
+ Cauley Woodrow  22.0
+Bottom 3:
+              Player  Subs
+Odisseas Vlachodimos   0.0
+       Ollie Watkins   0.0
+    Antonee Robinson   0.0
+========================================
+
+Chỉ số: Mn/Sub
+Top 3:
+        Player  Mn/Sub
+Anthony Gordon    79.0
+  Adam Wharton    63.0
+Daniel Bentley    57.0
+Bottom 3:
+       Player  Mn/Sub
+Ethan Pinnock     1.0
+  Ben Godfrey     1.0
+      Ben Mee     1.0
+========================================
+
+Chỉ số: Unused Subs
+Top 3:
+          Player  Unused Subs
+  Daniel Bentley         33.0
+Thomas Strakosha         32.0
+  Aaron Ramsdale         31.0
+Bottom 3:
+        Player  Unused Subs
+     Enes Ünal          0.0
+Elijah Adebayo          0.0
+Jaidon Anthony          0.0
+========================================
+
+Chỉ số: PPM
+Top 3:
+         Player  PPM
+  Thomas Partey 2.71
+ Aaron Ramsdale 2.67
+Kevin De Bruyne 2.67
+Bottom 3:
+       Player  PPM
+   John Fleck  0.0
+Matheus Nunes  0.0
+  Neal Maupay  0.0
+========================================
+
+Chỉ số: onG
+Top 3:
+        Player  onG
+William Saliba 91.0
+         Rodri 87.0
+   Declan Rice 84.0
+Bottom 3:
+         Player  onG
+Tawanda Chirewa  0.0
+ Rhian Brewster  0.0
+  Benson Manuel  0.0
+========================================
+
+Chỉ số: onGA
+Top 3:
+          Player  onGA
+Anel Ahmedhodžić  89.0
+ Thomas Kaminski  85.0
+   Jack Robinson  83.0
+Bottom 3:
+         Player  onGA
+Hannibal Mejbri   1.0
+   Reiss Nelson   1.0
+   Ivan Perišić   1.0
+========================================
+
+Chỉ số: onxG
+Top 3:
+         Player  onxG
+Virgil van Dijk  82.1
+ William Saliba  76.1
+Bruno Guimarães  74.0
+Bottom 3:
+         Player  onxG
+  Benson Manuel   0.5
+ Jaidon Anthony   0.6
+Tawanda Chirewa   0.8
+========================================
+
+Chỉ số: onxGA
+Top 3:
+         Player  onxGA
+Thomas Kaminski   77.6
+    André Onana   68.9
+     Max Kilman   67.7
+Bottom 3:
+         Player  onxGA
+    Neal Maupay    1.5
+Tawanda Chirewa    1.5
+    Tyler Adams    1.5
+========================================
+
+Chỉ số: Fls
+Top 3:
+         Player  Fls
+Conor Gallagher 83.0
+     João Gomes 66.0
+      Luis Díaz 54.0
+Bottom 3:
+           Player  Fls
+      Tyler Adams  0.0
+Guglielmo Vicario  0.0
+   Daniel Bentley  0.0
+========================================
+
+Chỉ số: Fld
+Top 3:
+         Player   Fld
+Bruno Guimarães 108.0
+    Jordan Ayew  94.0
+ Mohammed Kudus  75.0
+Bottom 3:
+          Player  Fld
+Shandon Baptiste  0.0
+  Daniel Bentley  0.0
+      Ionuț Radu  0.0
+========================================
+
+Chỉ số: Off/PE
+Top 3:
+              Player  Off/PE
+        Darwin Núñez    33.0
+     Nicolas Jackson    28.0
+Jean-Philippe Mateta    24.0
+Bottom 3:
+           Player  Off/PE
+   Illia Zabarnyi     0.0
+Rodrigo Bentancur     0.0
+     Amari'i Bell     0.0
+========================================
+
+Chỉ số: Crs/PE
+Top 3:
+       Player  Crs/PE
+Alfie Doughty   340.0
+  Pascal Groß   238.0
+Dwight McNeil   229.0
+Bottom 3:
+              Player  Crs/PE
+          Kurt Zouma     0.0
+Odisseas Vlachodimos     0.0
+           Matz Sels     0.0
+========================================
+
+Chỉ số: OG
+Top 3:
+                 Player  OG
+         Daiki Hashioka 2.0
+      Emiliano Martínez 2.0
+Konstantinos Mavropanos 2.0
+Bottom 3:
+         Player  OG
+Odsonne Édouard 0.0
+  Ollie Watkins 0.0
+Elliot Anderson 0.0
+========================================
+
+Chỉ số: Recov
+Top 3:
+         Player  Recov
+Bruno Guimarães  237.0
+          Rodri  235.0
+  Ryan Christie  231.0
+Bottom 3:
+          Player  Recov
+      Ionuț Radu    0.0
+    Mark Travers    1.0
+Thomas Strakosha    1.0
+========================================
+
+Chỉ số: Won
+Top 3:
+               Player   Won
+      Virgil van Dijk 140.0
+      James Tarkowski 140.0
+Dominic Calvert-Lewin 137.0
+Bottom 3:
+              Player  Won
+       Anass Zaroury  0.0
+Odisseas Vlachodimos  0.0
+     Andros Townsend  0.0
+========================================
+
+Chỉ số: Lost/AD
+Top 3:
+               Player  Lost/AD
+       Carlton Morris    169.0
+Dominic Calvert-Lewin    144.0
+      Dominic Solanke    135.0
+Bottom 3:
+              Player  Lost/AD
+        Fabio Vieira      0.0
+Odisseas Vlachodimos      0.0
+     Bart Verbruggen      0.0
+========================================
+
+Chỉ số: Won%
+Top 3:
+         Player  Won%
+Bart Verbruggen 100.0
+   Fabio Vieira 100.0
+  Sandro Tonali 100.0
+Bottom 3:
+       Player  Won%
+Anass Zaroury   0.0
+ Reiss Nelson   0.0
+  Neal Maupay   0.0
+========================================
